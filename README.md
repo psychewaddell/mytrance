@@ -1,0 +1,2 @@
+# mytrance
+// "hello, world!"
